@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Hassan 👋
 
 <!--
 **HassanRahim26/HassanRahim26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![Hassan's github stats](https://github-readme-stats.vercel.app/api?username=HassanRahim26&show_icons=true&theme=tokyonight) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HassanRahim26&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+![](https://komarev.com/ghpvc/?username=HassanRahim26&style=flat-square)
