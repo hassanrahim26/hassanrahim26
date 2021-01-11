@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ![Hassan's github stats](https://github-readme-stats.vercel.app/api?username=HassanRahim26&show_icons=true&theme=tokyonight) 
 
 <!--TOP LANGUAGES USED 👇 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HassanRahim26&show_icons=true&theme=tokyonight)](https://github.com/anuraghazraHassanRahim26/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HassanRahim26&show_icons=true&theme=tokyonight)](https://github.com/HassanRahim26/github-readme-stats)
 
 <!--PROFILE VIEWS👇 -->
 <!--![](https://komarev.com/ghpvc/?username=HassanRahim26&style=flat-square)-->
