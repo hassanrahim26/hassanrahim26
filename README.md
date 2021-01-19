@@ -13,7 +13,7 @@
 <!--
 <a href="https://codepen.io/https://codepen.io/h_r_26" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="https://codepen.io/h_r_26" height="30" width="40" /></a>
 -->
-<a href="https://twitter.com/imh_r_26" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="imh_r_26" height="30" width="40" /></a>
+<a href="https://twitter.com/imh_r_26" target="blank"><img align="center" src="https://www.vhv.rs/dpng/d/439-4390912_twitter-round-logo-transparent-clipart-computer-icons-twitter.png" alt="imh_r_26" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/hassan-rahim-76693214a/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/hassan-rahim-76693214a/" height="30" width="40" /></a>
 <!--
 <a href="https://kaggle.com/https://www.kaggle.com/hassanrahim" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="https://www.kaggle.com/hassanrahim" height="30" width="40" /></a>
